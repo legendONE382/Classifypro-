@@ -39,7 +39,7 @@ ClassifyPro digitizes daily school operations so principals can monitor attendan
 ## 💡 Value Proposition
 - **Cost-effective:** Free-first onboarding with optional paid cloud features.
 - **Built for local realities:** Designed for Nigerian school operations and curriculum workflows.
-- **Execution-focused team:** Built by Estech Solutions to solve practical education administration problems.
+- **Execution-focused team:** Built by Estech Solutions https://estech-solutions.vercel.app to solve practical education administration problems.
 
 ---
 
